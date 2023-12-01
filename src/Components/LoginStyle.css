@@ -1,0 +1,23 @@
+.login-form{
+    padding-top: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-input{
+    max-width: 400px;
+    min-width: 700px;
+}
+.btn-login-register{
+    display: flex;
+}
+.btn-login-register button{
+    margin-right: 10px;
+}
+.registerLink{
+    text-decoration: none;
+    color: #ffff;
+    background-color: #0B5ED7;
+    padding: 6px 12px;
+    border-radius: 5px;
+}

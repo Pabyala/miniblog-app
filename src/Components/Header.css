@@ -1,0 +1,7 @@
+.toHome, .toLogOut, .register{
+    text-decoration: none;
+    color: black;
+}
+.toHome{
+    margin-right: 5px;
+}
